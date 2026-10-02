@@ -1,7 +1,7 @@
+import torch
 import cv2
 import numpy as np
 import pandas as pd
-import torch
 from collections import deque
 from scipy.signal import find_peaks
 import math
